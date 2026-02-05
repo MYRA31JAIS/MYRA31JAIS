@@ -1,9 +1,9 @@
-# 🌼 Heyaa! Thanks for stopping by 💫  
+# 🌼 Hii! I'm Myraa  💫  
 
-## So yup..you are here at **Myra's Profile** 👩‍💻💚  
-Welcome to a cute little corner of my GitHub profile — grab a coffee ☕ and have a look around!
+### Traversed enough? — thanks for stopping by ✨ 👩‍💻💚  
+Welcome to the cute little corner of my GitHub profile — grab a coffee ☕ and have a look around!
 
-I’m a Computer Science (AIML) student who loves building **real-time apps**, experimenting with **AI**, and creating things that make studying and productivity feel a little less boring ✨
+I'm passionate about technology, always eager to learn, and love building things that make a difference. Whether it's through code, collaboration, or creative problem-solving, I strive to leave a positive mark wherever I go coz productivity feel a little less boring ✨
 
 ---
 
@@ -11,8 +11,6 @@ I’m a Computer Science (AIML) student who loves building **real-time apps**, e
 🌱 Curious mind | Consistent learner  
 🎓 CSE (AIML) undergraduate    
 🎯 Currently improving **DSA, system design & production-ready apps**
-I'm passionate about technology, always eager to learn, and love building things that make a difference. Whether it's through code, collaboration, or creative problem-solving, I strive to leave a positive mark wherever I go.
-
 ✨ Lifelong learner and tech enthusiast
 💡 Open to collaboration on exciting projects
 
@@ -73,4 +71,4 @@ Let’s build something amazing together!
 ---
 
 ⭐ Thanks for visiting!  
-Feel free to explore my repositories and follow along 💚✨
+C-yaa💚✨
